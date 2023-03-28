@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**sustainabilitywizards/sustainabilitywizards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sustainabilitywizards/sustainabilitywizards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profiCancel changesle.
 
 Here are some ideas to get you started:
 
