@@ -19,6 +19,7 @@
 
 This project seeks to help individuals and households track their expenses in water, energy, and food consumptions and ways to reduce their energy consumptions. The program takes data from water, energy, and food bills, including the amount of energy used and where it was used, and provides a report that summarizes the resource usage.
 <br>
+
 ## 🔑 **Significance:**
 As inclined with sustainable development this program has significant benefits for both individuals/households and the environment.
 <br>
