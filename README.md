@@ -5,17 +5,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&color=cyan&size=30%&center=true&vCenter=true&width=1500&height=150&lines=Sustainability+Wizard;A+Comprehensive+Sustainability+Tracker+for+Eco-Conscious+Living"></a>
 </p>
 
-
 <br>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <picture> <img align="right" src="https://user-images.githubusercontent.com/129142641/228139771-e6868fe0-9779-4bf8-b866-70a63de21610.gif" width = 250px></picture>
 
-# <picture><img src = "https://user-images.githubusercontent.com/129142641/228139994-36848a09-82eb-42aa-bf68-f45cb3c7e6e2.gif" width = 50px></picture> **👉Description and Purpose:**
-
-<br>
+## <picture><img src = "https://user-images.githubusercontent.com/129142641/228139994-36848a09-82eb-42aa-bf68-f45cb3c7e6e2.gif" width = 50px></picture> 👉 **Description and Purpose:**
 
 This project seeks to help individuals and households track their expenses in water, energy, and food consumptions and give them ways to reduce their resource consumptions. The program takes data from water, energy, and food bills, including the ways and where they were used, and provides a report that summarizes the resource usage. Additionally, it will also help households manage their monthly income smartly by providing them detailed ways on how they should spend their money. The program will serve as the budget planner of the household's expenditure.
 <br>
