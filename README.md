@@ -44,4 +44,13 @@ Provide users with energy and water-saving tips and tricks that they can use to 
 
 <br>
 
+<img src="https://user-images.githubusercontent.com/129142641/228390690-e76a320d-7ddc-473c-a16a-94266e78b9bc.png" width = 50% img align = "center"><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h6 align = "center">
+<p>De Jose, Mary Kristine A.</p>
+<p>Elopre, Jake Maxim O.</p>
+<p>Marasigan, Eljay P.</p>
+<p>Reyes, Paul Alexis J.</p>
+</h6>
