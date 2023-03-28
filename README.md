@@ -17,7 +17,7 @@
 
 <br>
 
-This project seeks to help individuals and households track their expenses in water, energy, and food consumptions and ways to reduce their energy consumptions. The program takes data from water, energy, and food bills, including the amount of energy used and where it was used, and provides a report that summarizes the resource usage.
+This project seeks to help individuals and households track their expenses in water, energy, and food consumptions and give them ways to reduce their resource consumptions. The program takes data from water, energy, and food bills, including the ways and where they were used, and provides a report that summarizes the resource usage. Additionally, it will also help households manage their monthly income smartly by providing them detailed ways on how they should spend their money. The program will serve as the budget planner of the household's expenditure.
 <br>
 
 ## 🔑 **Significance:**
