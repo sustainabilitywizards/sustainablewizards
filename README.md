@@ -43,8 +43,7 @@ Analyzes historical energy usage data to identify trends and patterns. For examp
 Provide users with energy and water-saving tips and tricks that they can use to reduce resource usage. Use print statements to display tips to users.
 
 <br>
-
-<img src="https://user-images.githubusercontent.com/129142641/228390690-e76a320d-7ddc-473c-a16a-94266e78b9bc.png" width = 50% img align = "center"><br>
+<p align = "center"><img width = 50% src="https://user-images.githubusercontent.com/129142641/228390690-e76a320d-7ddc-473c-a16a-94266e78b9bc.png"></p><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
