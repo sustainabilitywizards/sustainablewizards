@@ -1,0 +1,5 @@
+Menu:
+1. Add an expense
+2. Display expenses
+3. Calculate Savings
+4. Logout
